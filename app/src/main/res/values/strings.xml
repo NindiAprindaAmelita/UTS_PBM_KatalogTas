@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Toko Tas Nindi</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Beli tas</string>
+    <string name="search_hint">Pilihan Tas</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Hermes</item>
+        <item>Dior</item>
+        <item>YSL</item>
+        <item>LV</item>
+        <item>Gucci</item>
+        <item>Chanel</item>
+        <item>Prada</item>
+        <item>Balenciaga</item>
+        <item>Charles</item>
+        <item>Coach</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Harga Rp. 5.000.000</item>
+        <item>Harga Rp. 6.500.000</item>
+        <item>Harga Rp. 4.750.000</item>
+        <item>Harga Rp. 8.500.000</item>
+        <item>Harga Rp. 7.000.000</item>
+        <item>Harga Rp. 9.300.000</item>
+        <item>Harga Rp. 3.000.000</item>
+        <item>Harga Rp. 5.999.000</item>
+        <item>Harga Rp. 2.000.000</item>
+        <item>Harga Rp. 7.599.000</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/hermes1</item>
+        <item>@drawable/dior1</item>
+        <item>@drawable/chanel1</item>
+        <item>@drawable/charles1</item>
+        <item>@drawable/coach1</item>
+        <item>@drawable/gucci1</item>
+        <item>@drawable/ysl1</item>
+        <item>@drawable/lv1</item>
+        <item>@drawable/balenciaga1</item>
+        <item>@drawable/prada1</item>
+
+    </integer-array>
+
+</resources>
